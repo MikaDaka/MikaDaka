@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikaDaka
 - 👀 I’m interested in kode, horse and MMORPG
 - 🌱 I’m currently learning in university
-- 💞️ I’m looking to collaborate on all piople
+- 💞️ I’m looking to collaborate on all people
 - 📫 How to reach me: maybe in Insatgram @mikadaka.jaa
 
 <!---
