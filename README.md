@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @MikaDaka
-- 👀 I’m interested in kode, horse and MMORPG
-- 🌱 I’m currently learning in university
-- 💞️ I’m looking to collaborate on all people
-- 📫 How to reach me: maybe in Insatgram @mikadaka.jaa
+### 🕵️‍♂️ Обо мне (если кратко: я — причина твоих бессонных ночей)
+
+- 🔍 **Хобби:** Находить баги в калькуляторе и ломать Hello World.
+- 🧪 **Специализация:** Превращаю "Perfectly fine" код в 40 открытых тикетов в Jira.
+- 💅 **Стиль работы:** Если тест не упал, значит я просто еще не проснулся.
+- 🤐 **Любимая фраза:** "А что будет, если я введу сюда отрицательное число и китайские иероглифы?"
+
+### 🛠 Мой "инструментарий пыток":
+- **PyTest / Playwright:** Чтобы баги страдали автоматически.
+- **Postman:** Спрашиваю у бэкенда, почему он такой медленный.
+- **Jira:** Моя коллекция бабочек, только вместо бабочек — косяки разработчиков.
+
+### 📊 Моя статистика (Количество сожженных нервных клеток):
+[Здесь твоя карточка GitHub Stats]
+
 
 <!---
 MikaDaka/MikaDaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
